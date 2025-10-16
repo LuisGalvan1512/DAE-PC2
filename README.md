@@ -35,8 +35,9 @@ cd drivehub_api
 python -m venv venv
 # En Windows:
 venv\Scripts\activate
+
 # En Linux/Mac:
-# source venv/bin/activate
+source venv/bin/activate
 
 
 ### 3. Instalar dependencias
